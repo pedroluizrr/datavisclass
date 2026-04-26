@@ -4,4 +4,4 @@
 
 ## Exercício 2
 <iframe width="100%" height="619" frameborder="0"
-  src="https://observablehq.com/embed/4eb59cfb8c50773c?cells=Exercicio2"></iframe>
+  src="https://observablehq.com/embed/4eb59cfb8c50773c@608?cells=Exercicio2"></iframe>
